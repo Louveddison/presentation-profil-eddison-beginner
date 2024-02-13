@@ -1,0 +1,46 @@
+body {
+    font-family: Georgia;
+    background-color: white;
+    Color: black;
+    padding: 0; 
+    text-align: center;
+  }
+  
+  h1, h2, h3 {
+    font-family : Arial;
+    Color: #fd5c63;
+    
+  }
+  
+  ul {
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #00308F;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3 ease;
+  }
+  
+  a:hover {
+    color: blue;
+  }
+  
+  #profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin:auto
+  }
+  
+  .card {
+    background-color : white;
+    padding: 5px;
+    width: auto;
+    margin: 25px auto;
+    border-radius: 10%;
+    border: 0.9px solid #EAEAEA;
+    box-shadow: 10px 5px 5px #EAEAEA
+  }
